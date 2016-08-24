@@ -1,6 +1,5 @@
 {
   "name": "ssr-example-fieldkit",
-  "version": "0.0.1",
   "description": "A fieldkit for our operatives",
   "main": "index.js",
   "scripts": {
@@ -10,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ssr-example/fieldkit.git"
+    "url": "https://github.com/ssr-example/fieldkit.git"
   },
   "keywords": [
     "ssr",
