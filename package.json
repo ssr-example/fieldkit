@@ -37,6 +37,6 @@
     "validate-commit-msg": "^2.8.0"
   },
   "dependencies": {
-    "ssr-fieldkit-message": "^1.0.0"
+    "ssr-fieldkit-message": "^2.0.1"
   }
 }
